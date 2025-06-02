@@ -44,7 +44,7 @@ This was one of the most valuable projects in my Android dev journey. Here’s w
 
 ## 📸 Screenshots
 
-![WeatherApp](https://github.com/user-attachments/assets/4f621131-d802-4e6d-9749-b0adc4763f03)
+<p align="center"> <img src="https://github.com/user-attachments/assets/2ddf67c8-fd2b-471f-b165-e4b29cae721e" width="350" alt="Weather App Screenshot"/> </p>
 
 
 ## ⚠️ Note
