@@ -43,7 +43,7 @@ This was one of the most valuable projects in my Android dev journey. Here’s w
 ---
 
 ## 📸 Screenshots
----![Screenshot_2025-05-31-22-42-09-743_com example weatherapp-edit](https://github.com/user-attachments/assets/2f67994e-b4ba-4631-9b32-2481d15ea5df)
+---![Screenshot_2025-05-31-22-42-09-743_com example weatherapp-edit](![WeatherApp](https://github.com/user-attachments/assets/f02591f2-18a2-4ebc-9c71-29d9b4c874f1))
 
 
 ## ⚠️ Note
