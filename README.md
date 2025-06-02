@@ -56,7 +56,7 @@ Full credit for the base structure goes to him.
 ## 🙋‍♂️ Feedback / Connect
 
 Found it useful or have ideas for new features?  
-Let’s connect on [LinkedIn](https://linkedin.com/in/rohan010101/) or drop a message!
+Let’s connect on [LinkedIn](www.linkedin.com/in/rohan-singh-rawat-78614a263) or drop a message!
 
 ---
 
